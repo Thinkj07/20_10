@@ -1,6 +1,6 @@
 # 🌸 Trang Web Chúc Mừng Ngày Phụ Nữ Việt Nam 20/10
 
-Một trang web tĩnh đẹp mắt với nhiều hiệu ứng animation sáng tạo để chúc mừng Ngày Phụ Nữ Việt Nam 20/10.
+Một trang web tĩnh đẹp mắt với nhiều hiệu ứng animation sáng tạo để chúc mừng Ngày Phụ Nữ Việt Nam 20/10
 
 ## ✨ Tính Năng Đặc Biệt
 
