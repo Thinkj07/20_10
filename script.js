@@ -8,7 +8,7 @@ function createFlower() {
     flower.textContent = flowerTypes[Math.floor(Math.random() * flowerTypes.length)];
     flower.style.left = Math.random() * 100 + '%';
     flower.style.fontSize = (Math.random() * 2 + 1) + 'em';
-    flower.style.animationDuration = (Math.random() * 3 + 4) + 's';
+    flower.style.animationDuration = (Math.random() * 3 + 3) + 's';
     flower.style.animationDelay = Math.random() * 2 + 's';
     
     flowersContainer.appendChild(flower);
